@@ -21,6 +21,8 @@ function convertToHellJs(code) { // 🚀
     .map((char) => {
         if (char == "") {
         return "";
+        } else if (char == "\n") {
+          return "[\"\\n\"]";
         } else if (!isNaN(char)) {
         return `["${char}"]`;
         } else if (isAlphaNumeric(char)) {
