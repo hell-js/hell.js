@@ -17,6 +17,8 @@
 ![google plus](https://aleen42.github.io/badges/src/google_plus.svg)
 ![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+![clubpenguin](https://img.shields.io/badge/Compatible%20with-Club%20Penguin-red?style=for-the-badge)
+![works](https://img.shields.io/badge/WORKS%20ON-MY%20MACHINE-yellow?style=for-the-badge)
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
