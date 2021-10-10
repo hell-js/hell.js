@@ -11,7 +11,7 @@
 ![npm collaborators](https://img.shields.io/npm/collaborators/hell.js)
 ![npm type definitions](https://img.shields.io/npm/types/hell.js)
 
-![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/neMncS2)
 ![matrix](https://img.shields.io/badge/Matrix-green?style=for-the-badge&logo=matrix&logoColor=white)
 ![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![google plus](https://aleen42.github.io/badges/src/google_plus.svg)
