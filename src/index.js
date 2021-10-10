@@ -1,28 +1,12 @@
-(() => {
-    function genProxyConf(path) {
-      return new Proxy(
-        {},
-        {
-          get(_, prop) {
-            if (prop != "data" && prop.length > 1) {
-              throw new Error(
-                "Hell.js does not support strings longer than one character for performance reasons."
-              );
-            }
+const genProxyConf = function (_, prop, acc) {
+    if (prop == "data") return acc;
   
-            if (prop != "data") {
-              return genProxyConf(path + prop);
-            } else {
-              return path;
-            }
-          },
-        }
+    if (prop.length > 1)
+      throw new Error(
+        "Hell.js does not support strings longer than one character for performance reasons."
       );
-    }
   
-    function build(callback) {
-      return callback(genProxyConf("")).data;
-    }
+    return new Proxy({}, { get: (t, p) => genProxyConf(t, p, acc + prop) });
+  };
   
-    exports.hell = build;
-})();
+module.exports.hell = (callback) => callback(genProxyConf(undefined, "", "")).data;
