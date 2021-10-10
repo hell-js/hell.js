@@ -69,11 +69,11 @@ r
 Hell 🚀 is also compatible with [Div.js](https://github.com/willmartian/div.js) that when paired with Mythril is a 🔥🔥🔥 next-generation frontend framework.
 
 ## So what are you waiting for 🚀? Go to Hell 🚀 today! 🚀
-`npm install hell.js` 🚀  
 `pnpm install hell.js` 🚀  
+`npm install hell.js` 🚀  
 `yarn add hell.js` 🚀  
 `pip install hell.js` 🚀  
-`curl -sL https://hell.js.org | sh` 🚀  
+`curl -sL https://hell.js.org/install.sh | sh` 🚀  
 `cargo install hell.js` 🚀  
 `go get hell.js` 🚀  
 `go install hell.js` 🚀  
@@ -99,3 +99,4 @@ Hell 🚀 is also compatible with [Div.js](https://github.com/willmartian/div.js
 `nix-shell -p hell.js` 🚀  
 `eopkg install hell.js` 🚀  
 `dotnet add package hell.js` 🚀
+`xbps-install hell.js` 🚀
