@@ -66,7 +66,7 @@ r
 - Hell 🚀 is 📈 memory safe 📈 because the size of your code is hard-limited 📉. The perfect solution for flexible 🚀 modern blazing 🔥🔥🔥 fast 🚀🚀🚀 development!!! 🚀
 
 
-Hell 🚀 is also compatible with [Div.js](https://github.com/willmartian/div.js) that when paired with Mythril is a 🔥🔥🔥 next-generation frontend framework.
+Hell 🚀 is also compatible with [Div.js](https://github.com/willmartian/div.js) that when paired with [Mythril](https://mithril.js.org/) is a 🔥🔥🔥 next-generation frontend framework.
 
 ## So what are you waiting for 🚀? Go to Hell 🚀 today! 🚀
 `npm install hell.js` 🚀  
