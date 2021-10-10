@@ -1,6 +1,6 @@
 {
   "name": "hell.js",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A JavaScript framework for the next generation. 🚀",
   "module": "src/index.js",
   "type": "module",
