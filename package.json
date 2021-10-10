@@ -1,12 +1,16 @@
 {
   "name": "hell.js",
   "version": "1.0.1",
-  "description": "A JavaScript framework for the next generation.",
-  "main": "src/index.js",
+  "description": "A JavaScript framework for the next generation. 🚀",
   "module": "src/index.js",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hell-js/hell.js.git"
+  },
+  "funding": {
+    "type" : "individual",
+    "url" : "https://www.youtube.com/watch?v=iik25wqIuFo"
   },
   "author": "Creatable & Yellowsink & Beef",
   "license": "CC0-1.0",
