@@ -1,4 +1,4 @@
-const genProxyConf = function (_, prop, acc) {
+const genProxyConf = function (prop, acc) {
     if (prop == "data") return acc;
 
     if (prop.length > 1)
@@ -6,7 +6,7 @@ const genProxyConf = function (_, prop, acc) {
         "Hell 🚀 disallows using multiple characters in HellChars 🚀 in your HellScript 🚀 for performance 🚀 reasons. 🚀"
       );
   
-    return new Proxy({}, { get: (t, p) => genProxyConf(t, p, acc + prop) });
+    return new Proxy({}, { get: (_, p) => genProxyConf(p, acc + prop) });
   };
   
 const hell = (callback) => callback(genProxyConf(undefined, "", "")).data;
