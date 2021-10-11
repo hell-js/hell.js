@@ -68,6 +68,40 @@ r
 
 Hell 🚀 is also compatible with [Div.js](https://github.com/willmartian/div.js) that when paired with [Mythril](https://mithril.js.org/) is a 🔥🔥🔥 next-generation frontend framework.
 
+
+## 🚀 Dynamic 🚀 programming made easy
+
+Tired of janky eval functions for dynamically running code?
+Hell 🚀 allows you to build code dynamically using familiar 🔥 javascript 🔥.
+
+Here's an example of dynamic programming in Hell 🚀.
+Note that this example also takes full advantage of Hell's 🚀 formatting flexibility, allowing line comments in the middle of your code.
+
+```js
+eval(hell((_) => {
+  let epicCode = _.c.o.n.s.o
+.l.
+e["."
+].l
+.o.g[
+"("
+]
+
+["'"];
+  for (let i = 0; i < 10; i++)
+    epicCode = epicCode
+
+
+// piss
+[i.toString()]["\\"].n
+  
+  return epicCode["'"][")"
+]
+}));
+
+// prints 0-9 in the console, each on its own line
+```
+
 ## So what are you waiting for 🚀? Go to Hell 🚀 today! 🚀
 `npm install hell.js` 🚀  
 `pnpm install hell.js` 🚀  
