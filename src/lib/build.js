@@ -1,6 +1,6 @@
 let identifier = (Math.random() + 1).toString(36).substring(3);
 
-const buildProxy = function (prop, acc) {
+function buildProxy(prop, acc) {
   if (prop == identifier) return acc;
 
   if (prop.length > 1)
@@ -20,4 +20,4 @@ function hell(callback) {
   }
 }
 
-export { hell as build };
+export { hell };
