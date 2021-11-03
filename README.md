@@ -103,6 +103,7 @@ e["."
 // prints 0-9 in the console, each on its own line
 ```
 
+
 ## So what are you waiting for 🚀? Go to Hell 🚀 today! 🚀
 `npm install hell.js` 🚀  
 `pnpm install hell.js` 🚀  
@@ -112,7 +113,7 @@ e["."
 `cargo install hell.js` 🚀  
 `go get hell.js` 🚀  
 `go install hell.js` 🚀  
-`rustup install nightly` 🚀  
+`rustup install hell.js` 🚀  
 `brew install hell.js` 🚀  
 `crew install hell.js` 🚀  
 `apt install hell.js` 🚀  
